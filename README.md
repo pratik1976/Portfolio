@@ -4,8 +4,6 @@
 
 Welcome to my portfolio! This project showcases my skills, projects, and experience as a computer engineering student and web developer. It is fully responsive and built using HTML, CSS, and JavaScript.
 
-## Description
-
 This portfolio is a personal project designed to highlight my journey and achievements in the field of computer engineering and web development. It includes the following sections:
 
 - **About Me**: A brief introduction about myself, my background, and my interests in technology and programming.
